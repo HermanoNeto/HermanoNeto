@@ -1,7 +1,7 @@
 ### Hi, my name is Hermano!
 
 
-- I’m currently learning Python, Security and Machine Learning
+- I’m currently learning Python, Data Science, and C#
 - LinkedIn Link: https://www.linkedin.com/in/hermano-neto
 
 ![Hermano GitHub stats](https://github-readme-stats.vercel.app/api?username=HermanoNeto&show_icons=true&theme=radical)
