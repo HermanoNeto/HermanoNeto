@@ -1,7 +1,7 @@
 ### Hi, my name is Hermano!
 
 
-- I’m currently learning Python, Data Science, and C# 
+- I’m currently learning Python, Data Analysis, Web Development
 - LinkedIn: https://www.linkedin.com/in/hermano-neto
 
 
