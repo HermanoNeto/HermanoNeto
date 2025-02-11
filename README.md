@@ -33,11 +33,6 @@ Atualmente focado em:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermanoNeto&layout=compact&theme=radical" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/HermanoNeto">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HermanoNeto&theme=radical" />
-      </a>
-    </td>
   </tr>
 </table>
 
